@@ -1,0 +1,209 @@
+﻿investee,date,amount,investment_type,country,topic,investor,investor_type
+COMPANY 2,2/5/2019,136898840,private_equity,China,Electric Vehicle,INVESTOR 2,investor
+COMPANY 3,5/2/2018,158962294,series_c,China,Electric Vehicle,INVESTOR 3,investor
+COMPANY 2,1/11/2015,63317588,series_a,China,Electric Vehicle,INVESTOR 4,investor
+COMPANY 3,1/2/2015,128300654,series_b,China,Electric Vehicle,INVESTOR 5,investor
+COMPANY 3,1/2/2015,128300654,series_b,China,Electric Vehicle,INVESTOR 6,investor
+COMPANY 3,1/2/2015,128300654,series_b,China,Electric Vehicle,INVESTOR 7,investor
+COMPANY 3,1/1/2014,11870614,series_a,China,Electric Vehicle,INVESTOR 8,investor
+COMPANY 3,1/1/2014,11870614,series_a,China,Electric Vehicle,INVESTOR 9,investor
+COMPANY 5,2/1/2019,1454439,angel,China,Electric Vehicle,INVESTOR 10,investor
+COMPANY 6,19/12/2018,43510000,series_b,China,Electric Vehicle,INVESTOR 11,investor
+COMPANY 7,6/8/2018,2923000,series_a,China,Electric Vehicle,INVESTOR 12,investor
+COMPANY 6,27/7/2018,15000000,series_a,China,Electric Vehicle,INVESTOR 13,company
+COMPANY 8,24/10/2017,4000000,series_a,China,Electric Vehicle,INVESTOR 14,company
+COMPANY 9,10/6/2019,70000000,series_b,China,Electric Vehicle,INVESTOR 15,investor
+COMPANY 10,8/3/2019,14877631,series_b,China,Electric Vehicle,INVESTOR 16,company
+COMPANY 9,29/10/2018,43091684,series_b,China,Electric Vehicle,INVESTOR 17,investor
+COMPANY 11,2/8/2018,2936000,series_a,China,Electric Vehicle,INVESTOR 18,investor
+COMPANY 9,27/3/2018,47800000,series_a,China,Electric Vehicle,INVESTOR 19,investor
+COMPANY 9,27/3/2018,47800000,series_a,China,Electric Vehicle,INVESTOR 20,investor
+COMPANY 9,1/5/2017,7252262,seed,China,Electric Vehicle,INVESTOR 20,investor
+COMPANY 7,6/8/2018,2923000,series_a,China,Electric Vehicle,INVESTOR 12,investor
+COMPANY 8,24/10/2017,4000000,series_a,China,Electric Vehicle,INVESTOR 14,company
+COMPANY 7,6/8/2018,2923000,series_a,China,Electric Vehicle,INVESTOR 12,investor
+COMPANY 12,29/5/2019,144627800,series_c,China,Electric Vehicle,INVESTOR 25,investor
+COMPANY 13,28/5/2019,1447153499,post_ipo_equity,China,Electric Vehicle,INVESTOR 26,investor
+COMPANY 14,26/4/2019,29719006,corporate_round,China,Electric Vehicle,INVESTOR 27,investor
+COMPANY 15,8/3/2019,446328944,series_c,China,Electric Vehicle,INVESTOR 28,company
+COMPANY 16,20/11/2018,287960376,series_a,China,Electric Vehicle,INVESTOR 29,investor
+COMPANY 16,20/11/2018,287960376,series_a,China,Electric Vehicle,INVESTOR 30,company
+COMPANY 17,26/9/2018,2908922,series_a,China,Electric Vehicle,INVESTOR 31,investor
+COMPANY 18,26/9/2018,2908922,series_b,China,Electric Vehicle,INVESTOR 31,investor
+COMPANY 19,29/8/2018,8953272,corporate_round,China,Electric Vehicle,INVESTOR 33,investor
+COMPANY 20,22/8/2018,350000000,series_b,China,Electric Vehicle,INVESTOR 34,investor
+COMPANY 21,2/8/2018,584513319,series_b,China,Electric Vehicle,INVESTOR 35,investor
+COMPANY 21,2/8/2018,584513319,series_b,China,Electric Vehicle,INVESTOR 36,investor
+COMPANY 12,18/4/2018,159356632,series_b,China,Electric Vehicle,INVESTOR 37,company
+COMPANY 14,22/3/2018,473447486,series_b,China,Electric Vehicle,INVESTOR 19,investor
+COMPANY 14,22/3/2018,473447486,series_b,China,Electric Vehicle,INVESTOR 39,investor
+COMPANY 16,29/1/2018,62000000,seed,China,Electric Vehicle,INVESTOR 40,investor
+COMPANY 21,18/1/2018,342639099,series_b,China,Electric Vehicle,INVESTOR 41,company
+COMPANY 21,18/1/2018,342639099,series_b,China,Electric Vehicle,INVESTOR 3,investor
+COMPANY 21,18/1/2018,342639099,series_b,China,Electric Vehicle,INVESTOR 43,company
+COMPANY 13,9/11/2017,1143300000,series_d,China,Electric Vehicle,INVESTOR 16,company
+COMPANY 15,9/11/2017,150635100,series_b,China,Electric Vehicle,INVESTOR 16,company
+COMPANY 15,9/11/2017,150635100,series_b,China,Electric Vehicle,INVESTOR 46,investor
+COMPANY 14,8/9/2017,95682703,series_a,China,Electric Vehicle,INVESTOR 47,company
+COMPANY 22,9/8/2017,200000000,series_unknown,China,Electric Vehicle,INVESTOR 48,investor
+COMPANY 22,9/8/2017,200000000,series_unknown,China,Electric Vehicle,INVESTOR 49,company
+COMPANY 21,12/6/2017,323548110,series_a,China,Electric Vehicle,INVESTOR 50,company
+COMPANY 13,16/3/2017,645709869,series_c,China,Electric Vehicle,INVESTOR 28,company
+COMPANY 13,16/3/2017,645709869,series_c,China,Electric Vehicle,INVESTOR 16,company
+COMPANY 13,21/7/2016,316000000,series_b,China,Electric Vehicle,INVESTOR 53,investor
+COMPANY 13,21/7/2016,316000000,series_b,China,Electric Vehicle,INVESTOR 54,investor
+COMPANY 13,21/7/2016,316000000,series_b,China,Electric Vehicle,INVESTOR 40,investor
+COMPANY 14,5/5/2016,119930514,series_a,China,Electric Vehicle,INVESTOR 47,company
+COMPANY 23,1/1/2016,153993988,series_a,China,Electric Vehicle,INVESTOR 57,company
+COMPANY 24,1/6/2015,20000000,series_a,China,Electric Vehicle,INVESTOR 14,company
+COMPANY 9,10/6/2019,70000000,series_b,China,Electric Vehicle,INVESTOR 15,investor
+COMPANY 9,29/10/2018,43091684,series_b,China,Electric Vehicle,INVESTOR 17,investor
+COMPANY 9,27/3/2018,47800000,series_a,China,Electric Vehicle,INVESTOR 19,investor
+COMPANY 9,27/3/2018,47800000,series_a,China,Electric Vehicle,INVESTOR 20,investor
+COMPANY 25,4/12/2017,37000000,series_c,China,Electric Vehicle,INVESTOR 63,investor
+COMPANY 26,1/10/2017,1071712,seed,China,Electric Vehicle,INVESTOR 64,investor
+COMPANY 25,13/6/2017,22000000,series_b,China,Electric Vehicle,INVESTOR 65,company
+COMPANY 25,13/6/2017,22000000,series_b,China,Electric Vehicle,INVESTOR 66,investor
+COMPANY 27,6/6/2017,19863267,series_a,China,Electric Vehicle,INVESTOR 67,investor
+COMPANY 9,1/5/2017,7252262,seed,China,Electric Vehicle,INVESTOR 20,investor
+COMPANY 28,16/5/2019,1452707,angel,China,Electric Vehicle,INVESTOR 69,investor
+COMPANY 29,12/6/2019,236000000,post_ipo_equity,China,Electric Vehicle,INVESTOR 70,investor
+COMPANY 29,7/8/2018,70000000,post_ipo_equity,China,Electric Vehicle,INVESTOR 71,investor
+COMPANY 30,18/8/2014,3240000,series_unknown,China,Electric Vehicle,INVESTOR 72,investor
+COMPANY 31,27/4/2012,50000000,series_b,China,Electric Vehicle,INVESTOR 73,investor
+COMPANY 32,22/10/2010,100000000,private_equity,China,Electric Vehicle,INVESTOR 74,company
+COMPANY 33,29/10/2018,12000000,series_b,Germany,Electric Vehicle,INVESTOR 75,investor
+COMPANY 33,11/4/2017,7957745,series_a,Germany,Electric Vehicle,INVESTOR 76,investor
+COMPANY 33,11/4/2017,7957745,series_a,Germany,Electric Vehicle,INVESTOR 77,investor
+COMPANY 34,6/9/2012,12631190,series_unknown,Germany,Electric Vehicle,INVESTOR 78,investor
+COMPANY 35,12/5/2016,2200000000,post_ipo_equity,Japan,Electric Vehicle,INVESTOR 79,company
+COMPANY 36,24/6/2013,60000000,private_equity,Japan,Electric Vehicle,INVESTOR 80,company
+COMPANY 36,4/12/2012,60000000,private_equity,Japan,Electric Vehicle,INVESTOR 80,company
+COMPANY 37,12/6/2019,400000000,debt_financing,Sweden,Electric Vehicle,INVESTOR 82,investor
+COMPANY 37,12/6/2019,600000000,corporate_round,Sweden,Electric Vehicle,INVESTOR 83,investor
+COMPANY 37,12/6/2019,600000000,corporate_round,Sweden,Electric Vehicle,INVESTOR 84,company
+COMPANY 37,15/5/2018,11820261,series_unknown,Sweden,Electric Vehicle,INVESTOR 85,company
+COMPANY 37,23/2/2018,64554207,debt_financing,Sweden,Electric Vehicle,INVESTOR 82,investor
+COMPANY 38,30/4/2019,225000000,debt_financing,United States,Electric Vehicle,INVESTOR 87,investor
+COMPANY 39,21/6/2018,100000000,corporate_round,United States,Electric Vehicle,INVESTOR 84,company
+COMPANY 38,20/12/2017,2000000000,corporate_round,United States,Electric Vehicle,INVESTOR 89,investor
+COMPANY 40,28/3/2017,1700000000,post_ipo_secondary,United States,Electric Vehicle,INVESTOR 16,company
+COMPANY 41,24/7/2015,4000000,series_b,United States,Electric Vehicle,INVESTOR 91,investor
+COMPANY 41,24/9/2013,4500000,series_a,United States,Electric Vehicle,INVESTOR 92,investor
+COMPANY 40,10/10/2012,10000000,grant,United States,Electric Vehicle,INVESTOR 93,investor
+COMPANY 42,3/8/2011,20000000,series_b,United States,Electric Vehicle,INVESTOR 94,investor
+COMPANY 40,4/11/2010,30000000,post_ipo_equity,United States,Electric Vehicle,INVESTOR 95,company
+COMPANY 40,20/5/2010,50000000,post_ipo_equity,United States,Electric Vehicle,INVESTOR 96,company
+COMPANY 43,21/12/2009,20000000,series_unknown,United States,Electric Vehicle,INVESTOR 33,investor
+COMPANY 40,16/9/2009,82500000,series_f,United States,Electric Vehicle,INVESTOR 98,investor
+COMPANY 40,23/6/2009,465000000,debt_financing,United States,Electric Vehicle,INVESTOR 99,company
+COMPANY 40,19/5/2009,50000000,series_e,United States,Electric Vehicle,INVESTOR 100,company
+COMPANY 44,1/1/2009,2000000,series_a,United States,Electric Vehicle,INVESTOR 101,investor
+COMPANY 45,17/9/2008,30000000,series_d,United States,Electric Vehicle,INVESTOR 102,investor
+COMPANY 40,11/5/2007,45000000,series_d,United States,Electric Vehicle,INVESTOR 103,investor
+COMPANY 45,28/11/2006,17000000,series_c,United States,Electric Vehicle,INVESTOR 104,investor
+COMPANY 40,1/5/2006,40000000,series_c,United States,Electric Vehicle,INVESTOR 105,investor
+COMPANY 40,1/2/2005,13000000,series_b,United States,Electric Vehicle,INVESTOR 106,investor
+COMPANY 45,11/11/2004,10000000,series_b,United States,Electric Vehicle,INVESTOR 107,investor
+COMPANY 46,9/10/2018,1000000,seed,United States,Electric Vehicle,INVESTOR 108,investor
+COMPANY 47,20/6/2018,1500000,series_unknown,United States,Electric Vehicle,INVESTOR 109,company
+COMPANY 48,25/7/2017,10255000,series_a,United States,Electric Vehicle,INVESTOR 110,investor
+COMPANY 49,12/1/2016,6238897,series_b,United States,Electric Vehicle,INVESTOR 111,investor
+COMPANY 50,20/7/2015,15000000,series_c,United States,Electric Vehicle,INVESTOR 112,investor
+COMPANY 49,29/6/2015,1600000,series_a,United States,Electric Vehicle,INVESTOR 111,investor
+COMPANY 48,1/6/2011,1100000,seed,United States,Electric Vehicle,INVESTOR 114,investor
+COMPANY 48,1/6/2011,1100000,seed,United States,Electric Vehicle,INVESTOR 115,investor
+COMPANY 51,26/3/2019,1000000,seed,United States,Electric Vehicle,INVESTOR 116,investor
+COMPANY 52,28/11/2018,240000000,series_h,United States,Electric Vehicle,INVESTOR 117,investor
+COMPANY 53,6/8/2018,31000000,series_a,United States,Electric Vehicle,INVESTOR 118,investor
+COMPANY 54,23/7/2018,35000000,series_c,United States,Electric Vehicle,INVESTOR 119,investor
+COMPANY 54,23/7/2018,35000000,series_c,United States,Electric Vehicle,INVESTOR 120,investor
+COMPANY 48,25/7/2017,10255000,series_a,United States,Electric Vehicle,INVESTOR 110,investor
+COMPANY 52,28/6/2017,43000000,series_g,United States,Electric Vehicle,INVESTOR 85,company
+COMPANY 40,28/3/2017,1700000000,post_ipo_secondary,United States,Electric Vehicle,INVESTOR 16,company
+COMPANY 52,2/3/2017,82000000,series_g,United States,Electric Vehicle,INVESTOR 100,company
+COMPANY 52,5/5/2016,59000000,series_f,United States,Electric Vehicle,INVESTOR 125,investor
+COMPANY 50,20/7/2015,15000000,series_c,United States,Electric Vehicle,INVESTOR 112,investor
+COMPANY 54,9/1/2014,1875000,seed,United States,Electric Vehicle,INVESTOR 127,investor
+COMPANY 40,10/10/2012,10000000,grant,United States,Electric Vehicle,INVESTOR 93,investor
+COMPANY 52,7/5/2012,47500000,series_d,United States,Electric Vehicle,INVESTOR 129,company
+COMPANY 55,12/1/2012,50000000,private_equity,United States,Electric Vehicle,INVESTOR 130,company
+COMPANY 48,1/6/2011,1100000,seed,United States,Electric Vehicle,INVESTOR 115,investor
+COMPANY 48,1/6/2011,1100000,seed,United States,Electric Vehicle,INVESTOR 114,investor
+COMPANY 40,4/11/2010,30000000,post_ipo_equity,United States,Electric Vehicle,INVESTOR 95,company
+COMPANY 40,20/5/2010,50000000,post_ipo_equity,United States,Electric Vehicle,INVESTOR 96,company
+COMPANY 52,1/2/2010,14000000,series_b,United States,Electric Vehicle,INVESTOR 135,investor
+COMPANY 52,1/2/2010,14000000,series_b,United States,Electric Vehicle,INVESTOR 136,investor
+COMPANY 40,16/9/2009,82500000,series_f,United States,Electric Vehicle,INVESTOR 98,investor
+COMPANY 40,23/6/2009,465000000,debt_financing,United States,Electric Vehicle,INVESTOR 99,company
+COMPANY 40,19/5/2009,50000000,series_e,United States,Electric Vehicle,INVESTOR 100,company
+COMPANY 40,11/5/2007,45000000,series_d,United States,Electric Vehicle,INVESTOR 103,investor
+COMPANY 40,1/5/2006,40000000,series_c,United States,Electric Vehicle,INVESTOR 105,investor
+COMPANY 40,1/2/2005,13000000,series_b,United States,Electric Vehicle,INVESTOR 106,investor
+COMPANY 56,8/10/2018,11783467,series_unknown,United States,Electric Vehicle,INVESTOR 143,investor
+COMPANY 56,8/10/2018,11783467,series_unknown,United States,Electric Vehicle,INVESTOR 144,investor
+COMPANY 56,8/10/2018,11783467,series_unknown,United States,Electric Vehicle,INVESTOR 145,company
+COMPANY 57,24/7/2018,8000000,series_unknown,United States,Electric Vehicle,INVESTOR 146,investor
+COMPANY 48,25/7/2017,10255000,series_a,United States,Electric Vehicle,INVESTOR 110,investor
+COMPANY 48,1/6/2011,1100000,seed,United States,Electric Vehicle,INVESTOR 115,investor
+COMPANY 48,1/6/2011,1100000,seed,United States,Electric Vehicle,INVESTOR 114,investor
+COMPANY 48,25/7/2017,10255000,series_a,United States,Electric Vehicle,INVESTOR 110,investor
+COMPANY 50,20/7/2015,15000000,series_c,United States,Electric Vehicle,INVESTOR 112,investor
+COMPANY 48,1/6/2011,1100000,seed,United States,Electric Vehicle,INVESTOR 114,investor
+COMPANY 48,1/6/2011,1100000,seed,United States,Electric Vehicle,INVESTOR 115,investor
+COMPANY 38,30/4/2019,225000000,debt_financing,United States,Electric Vehicle,INVESTOR 87,investor
+COMPANY 58,24/4/2019,500000000,corporate_round,United States,Electric Vehicle,INVESTOR 155,company
+COMPANY 58,15/2/2019,700000000,corporate_round,United States,Electric Vehicle,INVESTOR 156,company
+COMPANY 59,19/9/2018,155000000,series_g,United States,Electric Vehicle,INVESTOR 100,company
+COMPANY 59,19/9/2018,155000000,series_g,United States,Electric Vehicle,INVESTOR 158,investor
+COMPANY 60,17/9/2018,1000000000,undisclosed,United States,Electric Vehicle,INVESTOR 159,investor
+COMPANY 58,23/5/2018,200000000,debt_financing,United States,Electric Vehicle,INVESTOR 160,investor
+COMPANY 38,20/12/2017,2000000000,corporate_round,United States,Electric Vehicle,INVESTOR 89,investor
+COMPANY 59,13/6/2017,55000000,series_f,United States,Electric Vehicle,INVESTOR 162,investor
+COMPANY 61,1/6/2017,800000,grant,United States,Electric Vehicle,INVESTOR 163,company
+COMPANY 40,28/3/2017,1700000000,post_ipo_secondary,United States,Electric Vehicle,INVESTOR 16,company
+COMPANY 62,21/11/2016,758798,series_unknown,United States,Electric Vehicle,INVESTOR 165,investor
+COMPANY 63,22/3/2016,120000,seed,United States,Electric Vehicle,INVESTOR 166,investor
+COMPANY 59,30/6/2015,30000000,series_d,United States,Electric Vehicle,INVESTOR 167,investor
+COMPANY 64,6/3/2014,9500000,series_d,United States,Electric Vehicle,INVESTOR 168,investor
+COMPANY 59,8/1/2014,34210700,series_c,United States,Electric Vehicle,INVESTOR 158,investor
+COMPANY 59,21/11/2012,23000000,series_b,United States,Electric Vehicle,INVESTOR 170,investor
+COMPANY 40,10/10/2012,10000000,grant,United States,Electric Vehicle,INVESTOR 93,investor
+COMPANY 64,12/7/2012,13000000,series_c,United States,Electric Vehicle,INVESTOR 172,company
+COMPANY 64,26/10/2011,28000000,series_b,United States,Electric Vehicle,INVESTOR 172,company
+COMPANY 59,25/10/2011,15000000,series_unknown,United States,Electric Vehicle,INVESTOR 174,investor
+COMPANY 59,13/6/2011,30000000,series_a,United States,Electric Vehicle,INVESTOR 175,investor
+COMPANY 59,13/6/2011,30000000,series_a,United States,Electric Vehicle,INVESTOR 176,investor
+COMPANY 59,13/6/2011,30000000,series_a,United States,Electric Vehicle,INVESTOR 167,investor
+COMPANY 65,17/3/2011,17000000,series_unknown,United States,Electric Vehicle,INVESTOR 178,company
+COMPANY 40,4/11/2010,30000000,post_ipo_equity,United States,Electric Vehicle,INVESTOR 95,company
+COMPANY 59,9/6/2010,20000000,series_unknown,United States,Electric Vehicle,INVESTOR 180,investor
+COMPANY 40,20/5/2010,50000000,post_ipo_equity,United States,Electric Vehicle,INVESTOR 96,company
+COMPANY 65,5/1/2010,5564220,series_a,United States,Electric Vehicle,INVESTOR 178,company
+COMPANY 60,17/12/2009,7000000,series_unknown,United States,Electric Vehicle,INVESTOR 183,investor
+COMPANY 60,17/12/2009,7000000,series_unknown,United States,Electric Vehicle,INVESTOR 184,investor
+COMPANY 40,16/9/2009,82500000,series_f,United States,Electric Vehicle,INVESTOR 98,investor
+COMPANY 40,23/6/2009,465000000,debt_financing,United States,Electric Vehicle,INVESTOR 99,company
+COMPANY 40,19/5/2009,50000000,series_e,United States,Electric Vehicle,INVESTOR 100,company
+COMPANY 66,9/9/2008,65000000,series_c,United States,Electric Vehicle,INVESTOR 188,investor
+COMPANY 66,14/1/2008,20000000,series_b,United States,Electric Vehicle,INVESTOR 167,investor
+COMPANY 40,11/5/2007,45000000,series_d,United States,Electric Vehicle,INVESTOR 103,investor
+COMPANY 40,1/5/2006,40000000,series_c,United States,Electric Vehicle,INVESTOR 105,investor
+COMPANY 40,1/2/2005,13000000,series_b,United States,Electric Vehicle,INVESTOR 106,investor
+COMPANY 67,10/9/2018,2000000,series_unknown,United States,Electric Vehicle,INVESTOR 193,investor
+COMPANY 68,26/9/2017,1500000,grant,United States,Electric Vehicle,INVESTOR 93,investor
+COMPANY 38,30/4/2019,225000000,debt_financing,United States,Electric Vehicle,INVESTOR 87,investor
+COMPANY 69,26/3/2019,4500000,seed,United States,Electric Vehicle,INVESTOR 196,investor
+COMPANY 69,26/3/2019,4500000,seed,United States,Electric Vehicle,INVESTOR 197,investor
+COMPANY 70,1/6/2018,40000000,series_e,United States,Electric Vehicle,INVESTOR 198,investor
+COMPANY 70,1/6/2018,40000000,series_e,United States,Electric Vehicle,INVESTOR 199,investor
+COMPANY 38,20/12/2017,2000000000,corporate_round,United States,Electric Vehicle,INVESTOR 89,investor
+COMPANY 71,6/6/2017,27000000,series_c,United States,Electric Vehicle,INVESTOR 201,investor
+COMPANY 72,20/6/2016,7853380,series_c,United States,Electric Vehicle,INVESTOR 202,investor
+COMPANY 71,1/10/2014,13000000,series_a,United States,Electric Vehicle,INVESTOR 203,investor
+COMPANY 72,31/7/2014,3500000,series_a,United States,Electric Vehicle,INVESTOR 204,company
+COMPANY 73,30/6/2014,7100000,series_b,United States,Electric Vehicle,INVESTOR 205,investor
+COMPANY 70,9/7/2012,84000000,series_unknown,United States,Electric Vehicle,INVESTOR 206,investor
+COMPANY 73,15/7/2010,450000,series_a,United States,Electric Vehicle,INVESTOR 207,investor
+COMPANY 74,19/10/2007,5000000,series_c,United States,Electric Vehicle,INVESTOR 208,investor
+COMPANY 74,19/10/2007,5000000,series_c,United States,Electric Vehicle,INVESTOR 209,investor

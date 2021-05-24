@@ -1,0 +1,115 @@
+div [data-test="datatable-input"] {
+    width: 100%;
+    margin-bottom: 1.5em;
+}
+
+div [data-test="datatable-input"] > input{
+    border-radius: 10px;
+    line-height: 1.8rem;
+    padding-left: 1em;
+}
+
+div [data-test="datatable-entries"] {
+    display: none !important;
+}
+
+.dataTables_paginate {
+    padding-right: 0% !important;
+    float: right;
+}
+
+.dataTables_info {
+    padding-left: 0% !important;
+}
+
+.datatable-panel{
+    padding: 1rem 1.5rem 1rem 1.5rem;
+    background: white;
+    border-radius: 10px;
+    border: 1px solid ghostwhite;
+    margin: 5px 0 5px 0;
+}
+
+.table-link-btn {
+    padding: 5px 10px 5px 10px;
+    border: 1px solid lightskyblue;
+    background: lightskyblue;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    font-size: 0.925em;
+}
+
+.table-link-btn:hover {
+    box-shadow: 2px 2px deepskyblue;
+    color: white;
+    text-shadow: 0.5px 0.5px white;
+}
+
+thead[data-test="datatable-head"] > tr > th{
+    text-align: center;
+}
+
+tbody[data-test="table-body"] > tr > td:nth-child(1){
+    text-align: center;
+}
+
+tbody[data-test="table-body"] > tr {
+    margin: 5px 0 5px 0;
+}
+
+tbody[data-test="table-body"] > tr > td{
+    margin: 10px 0 10px 0;
+    text-align: center;
+}
+
+tbody[data-test="table-body"] > tr > td:nth-child(3){
+    text-align: right;
+}
+
+.widget-label {
+    font-size: 0.7rem;
+    vertical-align: baseline;
+}
+
+.widget-figure {
+    margin-bottom: 0;
+    vertical-align: top;
+}
+
+.widget-row {
+    display: contents;
+}
+
+.currency-figure {
+    text-align: right;
+}
+
+.widget-row > .col:nth-child(1) > h6 {
+    margin-bottom: 0;
+}
+
+.custom-card-body {
+    padding: 5px 0 5px 0 !important;
+}
+
+.widget-title {
+    display: inline;
+}
+
+.widget-title-rmk {
+    font-size: 0.865em;
+}
+
+.col-padding-top-investors{
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+.double-layer {
+    padding-left: 1rem;
+}
+
+.page-title {
+    padding-left: 3px;
+}
